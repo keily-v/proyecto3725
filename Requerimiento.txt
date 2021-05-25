@@ -1,5 +1,6 @@
 Se necesita crear un programa que permita realizar operaciones básicas. 
 Necesitamos formar grupos de 4 personas pra designar tareas. 
+Grupo de 4 personas 
 Por decisión de los mienbros del proyecto se define que la solución se la haga con funciones. 
 git add .
 git comit -m "desarrollo del proyecto con funciones"
