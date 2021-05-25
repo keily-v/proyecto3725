@@ -10,3 +10,6 @@ int main()
     printf("El valor ingresado es");
     printf("Ingrese su nombre");
 }
+void sumar(int n){
+int resultado=n+n;
+}
