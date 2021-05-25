@@ -1,0 +1,18 @@
+Se necesita crear un programa que permita realizar operaciones básicas. 
+Necesitamos formar grupos de 4 personas pra designar tareas. 
+Por decisión de los mienbros del proyecto se define que la solución se la haga con funciones. 
+git add .
+git comit -m "desarrollo del proyecto con funciones"
+git clear
+git log --oneline
+--viajes por el commit
+git reset --mixed ()
+git reset --hard 4823
+git status
+git log --oneline
+git reflog (todos los commit que se ha hecho)
+git reset --hard 8373
+git log --oneline
+(ir al archivo txt)
+git reset --oneline 
+crearse cuenta en git hub, 
